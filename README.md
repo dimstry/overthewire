@@ -21,4 +21,4 @@ Diringkas dari halaman [Rules](https://overthewire.org/rules/):
 
 | Game | Status | Catatan |
 |------|--------|---------|
-| [Bandit](bandit.md) | Level 0 → 5 selesai ✅ | Dasar-dasar Linux & command line |
+| [Bandit](bandit/README.md) | Level 0 → 5 selesai ✅ | Dasar-dasar Linux & command line |
